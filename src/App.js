@@ -1,25 +1,25 @@
-import logo from './lantheum_600.jpg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          MEDICAL MARKETING
-        </a>
-      </header>
-    </div>
-  );
+import React, { Component } from 'react';
+  
+class App extends Component {
+  render() {
+    const myStyle={
+        backgroundImage: 
+ "url('https://lantheum.s3.ap-southeast-2.amazonaws.com/l_background.jpg')",
+        height:'100vh',
+        marginTop:'-70px',
+        fontSize:'50px',
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+    };
+    return (
+      <div style={myStyle}>
+        <p>&nbsp</p>
+      </div>
+    );
+  }
 }
-
+   
 export default App;
+
+
