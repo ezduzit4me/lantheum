@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     const myStyle={
         backgroundImage: 
- "url('https://lantheum.s3.ap-southeast-2.amazonaws.com/l_background.jpg')",
+ "url('https://lantheum.s3.ap-southeast-2.amazonaws.com/l_background_v2.jpg')",
         height:'100vh',
         marginTop:'-70px',
         fontSize:'50px',
@@ -14,7 +14,7 @@ class App extends Component {
     };
     return (
       <div style={myStyle}>
-        <p>&nbsp</p>
+      
       </div>
     );
   }
