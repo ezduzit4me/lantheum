@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     const gaTrackingId="UA-205554703-3";
       ReactGA.initialize(gaTrackingId);
-      ReactGA,pageview("/");
+      ReactGA.pageview("/");
 
     const myStyle={
         backgroundImage: 
