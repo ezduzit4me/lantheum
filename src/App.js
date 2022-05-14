@@ -11,7 +11,7 @@ class App extends Component {
 
     const myStyle={
         backgroundImage: 
- "url('https://lantheum.s3.ap-southeast-2.amazonaws.com/lantheum_v5.jpg')",
+ "url('https://lantheum.s3.ap-southeast-2.amazonaws.com/lantheum_v6.jpg')",
         height:'100vh',
         marginTop:'-70px',
         fontSize:'50px',
