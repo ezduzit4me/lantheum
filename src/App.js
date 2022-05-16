@@ -1,7 +1,6 @@
 
 import React from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
-import ReactGA from "react-ga";
 
 
 
@@ -12,15 +11,7 @@ import NotFoundPage from './containers/NotFoundPage/index';
 
 
 export default function App() {
-  const gaTrackingId = "UA-205554703-1"; // enter your Tracking ID
-    ReactGA.initialize(gaTrackingId);
-    ReactGA.pageview("/");
-    ReactGA.pageview("/about");
-    ReactGA.pageview("/services");
-    ReactGA.event({
-      category: "Lantheum",
-      action: "Lantheum",
-    });
+ 
 
  
 
