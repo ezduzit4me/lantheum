@@ -47,12 +47,12 @@ class App extends React.Component {
     
     
 <Helmet>
-  <title> Fican Guitars - Play The Difference</title>
+  <title> Lantheum </title>
        <link rel="stylesheet" href="./css/slides.min.css" />
        <script src="./js/slides.min.js" type="text/javascript"/>
        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, viewport-fit=cover"/>
 	      <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="description" content="Fican High performance guitars made from Australian and Pacific tonewoods - designed to last your lifetime - Freight Free globally." />
+        <meta name="description" content="Lantheum Marketing " />
         <meta charset="UTF-8" />
       </Helmet>
       
