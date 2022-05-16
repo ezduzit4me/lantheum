@@ -98,10 +98,10 @@ class App extends React.Component {
                   
                   
 		  </li>
-                <li className="col-6-12 ae-4">
-                  <h3 className="margin-top-3">&nbsp;</h3>
-                  <p className="tiny opacity-6">&nbsp;</p>
-                </li>
+      <li className="col-6-12 ae-9">
+                  <h3 className="margin-top-3">Address</h3>
+                  <p className="tiny opacity-6">138A/3 Sailors Bay Rd<br/>NORTHBRIDGE 2063<br/>Australia</p>
+		</li>
                 <li className="col-6-12 ae-5">
                 <h3 className="margin-top-3">Michael Warrener Bsc Mba</h3>
                   <p className="tiny opacity-6">&nbsp;&nbsp;michael@lantheum.com.au<br/>&nbsp;&nbsp;&nbsp;&nbsp;+61 417 096 727</p>
@@ -117,8 +117,8 @@ class App extends React.Component {
                   <p className="tiny opacity-6">&nbsp; </p>
 		</li>
     <li className="col-6-12 ae-9">
-                  <h3 className="margin-top-3">Address</h3>
-                  <p className="tiny opacity-6">138A/3 Sailors Bay Rd<br/>NORTHBRIDGE 2063<br/>Australia</p>
+                  <h3 className="margin-top-3">&nbsp;</h3>
+                  <p className="tiny opacity-6">&nbsp;</p>
 		</li>
 		<li className="col-6-12 ae-10">
                   <h3 className="margin-top-3">&nbsp;</h3>
