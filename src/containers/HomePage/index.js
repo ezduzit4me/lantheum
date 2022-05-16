@@ -118,7 +118,7 @@ class App extends React.Component {
 		</li>
     <li className="col-6-12 ae-9">
                   <h3 className="margin-top-3">Address</h3>
-                  <p className="tiny opacity-6">138A /3 Sailors Bay Rd<br/>NORTHBRIDGE 2063<br/>Australia</p>
+                  <p className="tiny opacity-6">138A/3 Sailors Bay Rd<br/>NORTHBRIDGE 2063<br/>Australia</p>
 		</li>
 		<li className="col-6-12 ae-10">
                   <h3 className="margin-top-3">&nbsp;</h3>
