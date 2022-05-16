@@ -70,21 +70,21 @@ class App extends React.Component {
         <div className="fix-12-12">
           <ul className="flex left">
             <li className="col-6-12 fromBottomLeft">
-              <p className="opacity-6 margin-bottom-2 ae-1">&nbsp;</p>
+              
               <h1 className="ae-2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LANTHEUM</h1>
-              <h1 className="ae-2">Marketing Expertise</h1>
+              <p><h1 className="ae-2">Marketing Expertise</h1></p>
               <div className="ae-3"><p className="opacity-8">&nbsp;   Specialist in medical startups</p></div>			 
               <div className="ae-3"><p className="opacity-8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australia and Overseas.</p></div>
               <ul className="flex">
               <li className="col-6-12 ae-3">
                   <h3 className="margin-top-3">&nbsp;</h3>
                   <ul>
-                  <li>&nbsp;</li>
-                  <li>&nbsp;</li>
+                 
                   
-                  <li>&nbsp;</li>
-                  <li>&nbsp;</li>
-                  <li>&nbsp;</li>
+                  
+                  
+                  
+                  <li>< img src="https://lantheum.s3.ap-southeast-2.amazonaws.com/0M6A0295_mike_headshot.jpg" data-action="zoom" className="shadow rounded ae-8" alt="Logo"/></li>
                   <li>&nbsp;</li>
                   </ul>
                 </li>
@@ -98,14 +98,20 @@ class App extends React.Component {
                   
                   
 		  </li>
-      <li className="col-6-12 ae-9">
-                  <h3 className="margin-top-3">Address</h3>
-                  <p className="tiny opacity-6">138A/3 Sailors Bay Rd<br/>NORTHBRIDGE 2063<br/>Australia</p>
-		</li>
-                <li className="col-6-12 ae-5">
-                <h3 className="margin-top-3">Michael Warrener Bsc Mba</h3>
+
+      <li className="col-6-12 ae-5">
+                <h3 className="margin-top-3">Michael Warrener Bsc MBA</h3>
                   <p className="tiny opacity-6">&nbsp;&nbsp;michael@lantheum.com.au<br/>&nbsp;&nbsp;&nbsp;&nbsp;+61 417 096 727</p>
                 </li>
+                <li className="col-6-12 ae-6">
+                  <h3 className="margin-top-3">&nbsp;</h3>
+                  <p className="tiny opacity-6">&nbsp;</p>
+                </li>
+      <li className="col-6-12 ae-9">
+                  <h3 className="margin-top-3">Office</h3>
+                  <p className="tiny opacity-6">138A/3 Sailors Bay Rd<br/>NORTHBRIDGE 2063<br/>Australia</p>
+		</li>
+                
                 <li className="col-6-12 ae-6">
                   <h3 className="margin-top-3">&nbsp;</h3>
                   <p className="tiny opacity-6">&nbsp;</p>
@@ -116,7 +122,7 @@ class App extends React.Component {
                   <h3 className="margin-top-3">&nbsp;</h3>
                   <p className="tiny opacity-6">&nbsp; </p>
 		</li>
-    
+
     <li className="col-6-12 ae-9">
                   <h3 className="margin-top-3">&nbsp;</h3>
                   <p className="tiny opacity-6">&nbsp;</p>
@@ -147,10 +153,12 @@ class App extends React.Component {
             <li className="col-5-12 bottom">
               
               <div className="videoThumbnail shadow rounded popupTrigger margin-bottom-3 ae-7" data-popup-id="89-1">
-              <a href="https://www.ficanguitars.com/stingray"><img src="https://lantheum.s3.ap-southeast-2.amazonaws.com/lantheum_mike_logo.jpg" data-action="zoom" className="shadow rounded ae-8" alt="Stingray"/></a>
+              <a href="https://www.lantheum.com.au"><img src="https://lantheum.s3.ap-southeast-2.amazonaws.com/lantheum_mike_logo.jpg" data-action="zoom" className="shadow rounded ae-8" alt="Logo"/></a>
               </div>
 
-
+              <div className="videoThumbnail shadow rounded popupTrigger margin-bottom-3 ae-7" data-popup-id="89-1">
+              <a href="https://www.lantheum.com.au"><img src="https://lantheum.s3.ap-southeast-2.amazonaws.com/lantheum_mike_logo.jpg" data-action="zoom" className="shadow rounded ae-8" alt="Logo"/></a>
+              </div>
 
             </li>
           </ul>
