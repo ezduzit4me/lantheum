@@ -77,6 +77,7 @@ $(document).ready(function() { "use strict";
     window.effectOffset = 600;
   }
   
+  
   //How many stages?
   window.stage = 1;
   window.stages = $('.slide').length;
