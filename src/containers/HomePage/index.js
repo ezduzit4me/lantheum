@@ -2,7 +2,7 @@ import React from 'react';
 import styled from "styled-components";
 import './../../App.css';
 import {Helmet} from "react-helmet";
-
+import CookieConsent from "react-cookie-consent";
 
 
 const theme = {
@@ -171,7 +171,24 @@ class App extends React.Component {
 
 </section>
 
+<section>
+<div>
+<CookieConsent
+  location="bottom"
+  buttonText="Accept and Continue"
+  cookieName="myAwesomeCookieName2"
+  style={{ background: "#2B373B" }}
+  buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
+  expires={150}
+>
+  This website uses cookies to enhance the user experience.{" "}
+  <span style={{ fontSize: "10px" }}>Manage Cookies :O</span>
+</CookieConsent>
 
+</div>
+
+
+</section>
 
 
 
