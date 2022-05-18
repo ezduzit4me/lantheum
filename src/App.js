@@ -1,5 +1,5 @@
 
-import React from 'react';
+import ReactGA from 'react-ga4';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 
@@ -12,6 +12,11 @@ import NotFoundPage from './containers/NotFoundPage/index';
 
 export default function App() {
  
+ 
+    const gaTrackingId = "UA-205554703-3"; // enter your Tracking ID
+      ReactGA.initialize(gaTrackingId);
+      ReactGA.send({ hitType: "pageview",page: "/"});
+     
 
  
 

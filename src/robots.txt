@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ficanguitars.com/sitemap.xml
+Sitemap: https://lantheum.com.au/sitemap.xml
