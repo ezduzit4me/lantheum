@@ -65,7 +65,7 @@ export default function ServicesPage() {
                           
                             
                               <a href="https://lantheum.net/"><Button>Home</Button></a>&nbsp;
-                              <a href="https://lantheum.net/about"><Button>About Us</Button></a>
+                             
                           <div className="ae-3"><p className="opacity-8">&nbsp;</p></div>
               <ul className="flex">
                 <li className="col-6-12 ae-3">

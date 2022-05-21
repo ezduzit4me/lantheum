@@ -65,10 +65,11 @@ export default function AboutPage() {
               <p className="opacity-6 margin-bottom-2 ae-1">&nbsp;</p>
               <h1 className="ae-2">LANTHEUM</h1>
                          
-                              <a href="https://lantheum.net/about"><Button>About Us</Button></a>&nbsp;
+                             
                               <a href="https://lantheum.net/services"><Button>Services</Button></a>
+                              <div className="ae-3"><p className="opacity-8">&nbsp;</p></div>
+                          <div className="ae-3"><p className="opacity-8">COMMERCIALISATION & RESEARCH</p></div>
                           <div className="ae-3"><p className="opacity-8">Principal Michael Warrener BSc MBA</p></div>
-                          <div className="ae-3"><p className="opacity-8">Marketing Expertise</p></div>
                           <div className="ae-3"><p className="opacity-8">- Specialist in Medical Startups </p></div>
                           <div className="ae-3"><p className="opacity-8">- Australia and Overseas</p></div>
               <ul className="flex">
