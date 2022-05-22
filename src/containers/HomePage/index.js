@@ -37,7 +37,7 @@ Button.defaultProps = {
 
 
 
-export default function AboutPage() {
+export default function HomePage() {
   return (
     
     <div className="App">
@@ -70,7 +70,7 @@ export default function AboutPage() {
                               <div className="ae-3"><p className="opacity-8">&nbsp;</p></div>
                           <div className="ae-3"><p className="opacity-8">COMMERCIALISATION & RESEARCH</p></div>
                           <div className="ae-3"><p className="opacity-8">Principal Michael Warrener BSc MBA</p></div>
-                          <div className="ae-3"><p className="opacity-8">- Specialist in Medical Startups </p></div>
+                          <div className="ae-3"><p className="opacity-8">- Specialists in Medical Startups </p></div>
                           <div className="ae-3"><p className="opacity-8">- Australia and Overseas</p></div>
               <ul className="flex">
                 
