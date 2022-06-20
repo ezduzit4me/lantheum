@@ -66,7 +66,7 @@ export default function AboutPage() {
                               <a href="https://lantheum.net/"><Button>Home</Button></a>&nbsp;
                               <a href="https://lantheum.net/news"><Button>News</Button></a>&nbsp;
                               <a href="https://lantheum.net/services"><Button>Services</Button></a>
-                          <div className="ae-3"><p className="opacity-8">Principal Michael Warrener</p></div>
+                          <div className="ae-3"><p className="opacity-8">Principal Michael Warrener BSc MBA</p></div>
               <ul className="flex">
                 <li className="col-6-12 ae-3">
                   <h3 className="margin-top-3">Pharmaceutical Experience</h3>
@@ -77,7 +77,7 @@ export default function AboutPage() {
                   <p className="tiny opacity-6">Management and transportation of nuclear time-critical packages.</p>
                 </li>
                 <li className="col-6-12 ae-5">
-                  <h3 className="margin-top-3">Nuclear Medicine</h3>
+                  <h3 className="margin-top-3">Nuclear Medicine Experience</h3>
                   <p className="tiny opacity-6"> Sirtex, Oncasil, ANSTO</p>
                 </li>
                 <li className="col-6-12 ae-6">
@@ -100,7 +100,7 @@ export default function AboutPage() {
             </li>
             <li className="col-1-12">&nbsp;</li>
             <li className="col-5-12 cell-28 ae-1">
-              <img src="https://lantheum.s3.ap-southeast-2.amazonaws.com/0M6A0295_mike_headshot.jpg" width="360" className="shadow rounded ae-8" alt="Fican Tornado" data-action="zoom"/>
+              <img src="https://lantheum.s3.ap-southeast-2.amazonaws.com/Michael_warrener.png" width="360" className="shadow rounded ae-8" alt="Michael_Warrener" data-action="zoom"/>
             </li>
             
           </ul>

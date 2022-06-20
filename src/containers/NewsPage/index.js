@@ -74,9 +74,9 @@ export default function NewsPage() {
                   <h3 className="margin-top-3">Congress</h3>
                   <p className="tiny opacity-6">6th World Theranostics Congress June 19th Wiesbaden Germany - we will be there</p>
                 </li>
-                
-                
-
+                <li className="className=col-5-12 cell-28 ae-1">
+                <img src="https://lantheum.s3.ap-southeast-2.amazonaws.com/conference.png" width="500" className="shadow rounded ae-8" alt="Conference" data-action="zoom"/>
+</li>
                    
                 
               </ul>
