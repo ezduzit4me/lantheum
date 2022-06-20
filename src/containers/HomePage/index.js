@@ -66,12 +66,21 @@ export default function HomePage() {
               <h1 className="ae-2">LANTHEUM</h1>
                          
                              
-                              <a href="https://lantheum.net/services"><Button>Services</Button></a>
+                              <a href="https://lantheum.net/services"><Button>Services</Button></a>&nbsp;
+                              <a href="https://lantheum.net/news"><Button>News</Button></a>&nbsp;
+                              <a href="https://lantheum.net/About"><Button>About</Button></a><br/>
+                             
                               <div className="ae-3"><p className="opacity-8">&nbsp;</p></div>
-                          <div className="ae-3"><p className="opacity-8">COMMERCIALISATION & RESEARCH</p></div>
-                          <div className="ae-3"><p className="opacity-8">Principal Michael Warrener BSc MBA</p></div>
-                          <div className="ae-3"><p className="opacity-8">- Specialists in Medical Startups </p></div>
+                          <div className="ae-3"><p className="opacity-8">Healthcare Strategy</p></div>
+                          <div className="ae-3"><p className="opacity-8">-Market Research</p></div>
+                          <div className="ae-3"><p className="opacity-8">- Nuclear Medicine and radiation </p></div>
                           <div className="ae-3"><p className="opacity-8">- Australia and Overseas</p></div>
+                          <div className="ae-3"><p className="opacity-8"> &nbsp; </p></div>
+                          <div className="ae-3"><p className="opacity-8">- We can accelerate your market entry</p></div>
+              <ul className="flex"></ul>
+              <ul className="flex">
+
+              </ul>
               <ul className="flex">
                 
 

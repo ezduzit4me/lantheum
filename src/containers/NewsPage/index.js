@@ -35,7 +35,7 @@ Button.defaultProps = {
 
 
 
-export default function ServicesPage() {
+export default function NewsPage() {
   return (
     
     <div className="App">
@@ -61,43 +61,24 @@ export default function ServicesPage() {
           <ul className="flex left">
             <li className="col-6-12 fromBottomLeft">
               <p className="opacity-6 margin-bottom-2 ae-1">Dependability</p>
-              <h1 className="ae-2">Lantheum Services</h1>
+              <h1 className="ae-2">Lantheum News</h1>
                           
                             
                               <a href="https://lantheum.net/"><Button>Home</Button></a>&nbsp;
-                              <a href="https://lantheum.net/news"><Button>News</Button></a>&nbsp;
+                              <a href="https://lantheum.net/services"><Button>Services</Button></a>&nbsp;
                               <a href="https://lantheum.net/about"><Button>About</Button></a>&nbsp;
                              
                           <div className="ae-3"><p className="opacity-8">&nbsp;</p></div>
               <ul className="flex">
                 <li className="col-6-12 ae-3">
-                  <h3 className="margin-top-3">Introductions</h3>
-                  <p className="tiny opacity-6">With more than two decades experience in our staff Lantheum can be your entry to the innovative field of &nbsp;theranostics</p>
+                  <h3 className="margin-top-3">Congress</h3>
+                  <p className="tiny opacity-6">6th World Theranostics Congress June 19th Wiesbaden Germany - we will be there</p>
                 </li>
-                <li className="col-6-12 ae-4">
-                  <h3 className="margin-top-3">TGA Approvals</h3>
-                  <p className="tiny opacity-6">European and Australian experience in TGA &nbsp;approvals</p>
-                </li>
-                <li className="col-6-12 ae-5">
-                  <h3 className="margin-top-3">Asia and The Pacific</h3>
-                  <p className="tiny opacity-6">Allow us to help you navigate this complex region</p>
-                </li>
-                <li className="col-6-12 ae-6">
-                  <h3 className="margin-top-3">Marketing Communications</h3>
-                  <p className="tiny opacity-6">As a start up why employ a full time marketeer when we can get your product out there at a fraction of the &nbsp;cost. We can assist in Branding and Scientific Visualisation</p>
-                </li>
+                
+                
 
                    
-                <li className="col-6-12 ae-6">
-                  <h3 className="margin-top-3">Polling</h3>
-                  <p className="tiny opacity-6">Allow us to poll and interview our Doctor and Specialist database to confirm market acceptance of your &nbsp;product. Allow us to worry about the detail</p>
-                </li>
-
-
-                 <li className="col-6-12 ae-6">
-                  <h3 className="margin-top-3">Location</h3>
-                  <p className="tiny opacity-6">We are conveniently located in an inner northern suburb of Sydney, Northbridge. Come and talk to &nbsp;us.</p>
-                </li>
+                
               </ul>
             </li>
             <li className="col-1-12">&nbsp;</li>

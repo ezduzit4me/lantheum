@@ -35,7 +35,7 @@ Button.defaultProps = {
 
 
 
-export default function AboutPage() {
+export default function AsiaPage() {
   return (
     
     <div className="App">
@@ -60,11 +60,10 @@ export default function AboutPage() {
         <div className="fix-12-12">
           <ul className="flex left">
             <li className="col-6-12 fromBottomLeft">
-              <p className="opacity-6 margin-bottom-2 ae-1">About</p>
+              <p className="opacity-6 margin-bottom-2 ae-1">Asia</p>
               <h1 className="ae-2">Lantheum</h1>
                          
                               <a href="https://lantheum.net/"><Button>Home</Button></a>&nbsp;
-                              <a href="https://lantheum.net/news"><Button>News</Button></a>&nbsp;
                               <a href="https://lantheum.net/services"><Button>Services</Button></a>
                           <div className="ae-3"><p className="opacity-8">Principal Michael Warrener</p></div>
               <ul className="flex">
